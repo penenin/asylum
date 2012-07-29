@@ -1,0 +1,223 @@
+Log: Log file open, 08/13/04 17:27:32
+Init: Name subsystem initialized
+Init: Detected: Microsoft Windows XP 5.1 (Build: 2600)
+Init: Version: 3270 (127.29)
+Init: Compiled: Jul 27 2004 14:29:19
+Init: Command line:  -mod=Asylum
+Init: Character set: Unicode
+Init: Base directory: C:\UT2004\System\
+Init: Ini:..\Asylum\System\Asylum.ini   UserIni:..\Asylum\System\AsylumUser.ini
+Init: Build label: UT2004 Build UT2004_Patch_[2004-07-27_14.28]
+Init: Object subsystem initialized
+Log: 	ati2dvag.dll/MOBILITY RADEON 9200
+Log: Game class is 'GameInfo'
+Log: Bringing Level Entry.myLevel up for play (0) appSeconds: 1.985000...
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Log: Browse: NvidiaLogo.ut2?Name=Player?Class=Engine.Pawn?Character=Jakob?team=255
+Log: Collecting garbage
+Log: Purging garbage
+Log: Garbage: objects: 27297->27297; refs: 276351
+Log: Game class is 'CinematicGame'
+Log: Bringing Level NvidiaLogo.myLevel up for play (0) appSeconds: 3.357000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Log: ALAudio: Using DirectSound to record audio.
+ScriptLog: New Player Player id=6fe6a37628db8c80f7e2615d3163c52d
+Log: Opened viewport
+Log: Enter SetRes: 1024x768 Fullscreen 1
+Log: Using back-buffer format 22(32-bit)
+Log: Using depth-buffer format 77(32-bit)
+Log: Creating device
+Log: xD3DHelper::Init (QuadEmulation)
+Log: OS doesn't support IME.
+Log: Startup time: 4.280000 seconds
+Log: Precaching: NvidiaLogo.LevelInfo0
+Log: Static mesh batches: 508608 vertex bytes, 110460 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Finished precaching geometry in 0.150 seconds
+Log: Finished precaching textures in 0.372 seconds
+Debug: AsylumMainMenu.Opened()   Sender:Package.AsylumMainMenu
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=Jakob
+Log: URL: Adding default option team=255
+Log: Browse: Index.ut2?disconnect?Name=Player?Class=Engine.Pawn?Character=Jakob?team=255
+Log: Failed; returning to Entry
+ScriptLog: AsylumMainMenu NotifyLevelChange  PendingConnection:False
+Log: GP=FALSE
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=6fe6a37628db8c80f7e2615d3163c52d
+Log: Static mesh batches: 0 vertex bytes, 0 index bytes
+Log: URL: Adding default option Name=Player
+Log: URL: Adding default option Class=Engine.Pawn
+Log: URL: Adding default option Character=Jakob
+Log: URL: Adding default option team=255
+Log: Browse: floor1?Name=Player?Class=Engine.Pawn?Character=Jakob?team=255
+Warning: Missing Class Class UnrealEd.Options2DShaperExtrudeToBevel
+Warning: Missing Class Class UnrealEd.Options2DShaperExtrudeToPoint
+Warning: Missing Class Class UnrealEd.Options2DShaperExtrude
+Warning: Missing Class Class UnrealEd.Options2DShaperRevolve
+Warning: Missing Class Class UnrealEd.OptionsBrushScale
+Warning: Missing Class Class UnrealEd.Options2DShaperBezierDetail
+Warning: Missing Class Class UnrealEd.OptionsSurfBevel
+Warning: Missing Class Class UnrealEd.OptionsTexAlignPlanar
+Warning: Missing Class Class UnrealEd.OptionsTexAlignCylinder
+Warning: Missing Class Class UnrealEd.OptionsNewTerrain
+Warning: Missing Class Class UnrealEd.OptionsNewTerrainLayer
+Warning: Missing Class Class UnrealEd.OptionsMapScale
+Warning: Missing Class Class UnrealEd.OptionsMatNewCameraPath
+Warning: Missing Class Class UnrealEd.OptionsMatNewStaticMesh
+Warning: Missing Class Class UnrealEd.OptionsDupTexture
+Warning: Missing Class Class UnrealEd.OptionsRotateActors
+Warning: Missing Class Class UnrealEd.OptionsNewClassFromSel
+Warning: Missing Class Class UnrealEd.TexAlignerPlanar
+Warning: Missing Class Class UnrealEd.TexAlignerDefault
+Warning: Missing Class Class UnrealEd.TexAlignerBox
+Warning: Missing Class Class UnrealEd.TexAlignerFace
+Warning: Missing Class Class UnrealEd.Options2DShaperSheet
+Warning: UT2K4ServerLoading Entry.UT2K4ServerLoading (Function GUI2K4.UT2K4ServerLoading.SetText:0095) Invalid game class, so cannot draw loading hint!
+Log: Collecting garbage
+Log: Purging garbage
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 42891->42375; refs: 617651
+Log: Game class is 'AsylumGameType'
+Log: Bringing Level floor1.myLevel up for play (0) appSeconds: 25.343000...
+Log: (Karma): Autodetecting CPU for SSE
+Log: (Karma): Using SSE Optimizations
+ScriptLog: GameInfo::InitGame : bEnableStatLogging False
+Log: AttachToBone: No bone named [righthand] found in actor MutiePawn0's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor MutiePawn2's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor MutiePawn3's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor MutiePawn4's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn0's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationAPawn0's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationAPawn1's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn3's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn5's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn1's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn6's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn2's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationAPawn2's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn7's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn8's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn9's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn10's skeleton.
+Log: AttachToBone: No bone named [righthand] found in actor GeneralPopulationBPawn4's skeleton.
+Warning: xPawn floor1.xPawn9 (Function XGame.xPawn.GetPlacedRoster:0007) Accessed None 'PlayerReplicationInfo'
+Warning: xPawn floor1.xPawn9 (Function XGame.xPawn.GetPlacedRoster:000F) Attempt to assign variable through None
+ScriptLog: Init placed bot floor1.ScriptedController0
+ScriptLog: Init placed bot floor1.MutieController0
+ScriptLog: Init placed bot floor1.MutieController1
+ScriptLog: Init placed bot floor1.MutieController2
+ScriptLog: Init placed bot floor1.MutieController3
+ScriptLog: Init placed bot floor1.ScriptedController1
+ScriptLog: Init placed bot floor1.ScriptedController2
+ScriptLog: Init placed bot floor1.ScriptedController3
+ScriptLog: Init placed bot floor1.ScriptedController4
+ScriptLog: Init placed bot floor1.ScriptedController5
+ScriptLog: Init placed bot floor1.ScriptedController6
+ScriptLog: Init placed bot floor1.ScriptedController7
+ScriptLog: Init placed bot floor1.ScriptedController8
+ScriptLog: Init placed bot floor1.ScriptedController9
+ScriptLog: Init placed bot floor1.GeneralPopulationController0
+ScriptLog: Init placed bot floor1.GeneralPopulationController1
+ScriptLog: Init placed bot floor1.GeneralPopulationController2
+ScriptLog: Init placed bot floor1.GeneralPopulationController3
+ScriptLog: Init placed bot floor1.GeneralPopulationController4
+Log: Spawning new actor for Viewport WindowsViewport
+ScriptLog: New Player Player id=6fe6a37628db8c80f7e2615d3163c52d
+ScriptLog: START MATCH
+Log: Precaching: floor1.LevelInfo0
+Log: Static mesh batches: 16480440 vertex bytes, 2127450 index bytes
+Log: Allocating 16384 byte dynamic index buffer.
+Log: Allocating 21108 byte dynamic index buffer.
+Log: Finished precaching geometry in 3.431 seconds
+Log: Finished precaching textures in 26.163 seconds
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'GeneralPopulation1'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'GeneralPopulation1'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'GeneralPopulation1'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'GeneralPopulation1'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'GeneralPopulation1'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'Mutie'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'Mutie'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'Mutie'
+Log: PlayAnim: Sequence 'Idle_Rest' not found for mesh 'Mutie'
+Warning: MutieController floor1.MutieController0 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController1 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController2 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController3 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController0 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController1 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController2 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController3 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController4 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController0 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController1 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController2 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController3 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController0 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController1 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController2 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController3 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController4 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController0 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController1 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController2 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController3 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController0 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController1 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController2 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController3 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController4 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController0 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController1 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController2 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController3 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController0 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController1 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController2 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController3 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController4 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController0 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController1 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController2 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: MutieController floor1.MutieController3 (Function AsylumGame.MutieController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController0 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController1 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController2 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController3 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: GeneralPopulationController floor1.GeneralPopulationController4 (Function AsylumGame.GeneralPopulationController.SeePlayer:0009) Accessed None 'SeenPlayer'
+Warning: AsylumSettingsPage Package.AsylumSettingsPage0 (Function AsylumGame.AsylumSettingsPage.BackButtonClicked:0019) Accessed None 'ActiveTab'
+Log: appRequestExit(0)
+Exit: Preparing to exit.
+Log: Purging garbage
+Log: Unbound to Window.dll
+Log: Unbound to Core.dll
+Log: Unbound to Engine.dll
+Exit: Game engine shut down
+Log: Unbound to WinDrv.dll
+Exit: Windows client shut down
+Log: Unbound to D3DDrv.dll
+Log: Unbound to XGame.dll
+Log: Unbound to IpDrv.dll
+Log: Unbound to Editor.dll
+Log: Unbound to Fire.dll
+Log: Unbound to XInterface.dll
+Log: Unbound to UWeb.dll
+Log: Unbound to Onslaught.dll
+Log: Unbound to ALAudio.dll
+Log: Waiting for file streaming thread to finish...
+Exit: OpenAL Audio subsystem shut down.
+Log: (Karma): Level Karma Terminated.
+Log: Garbage: objects: 50301->0; refs: 617651
+Exit: Object subsystem successfully closed.
+Exit: Exiting.
+Log: FileManager: Reading 0 GByte 272 MByte 322 KByte 135 Bytes from HD took 41.599593 seconds (41.455593 reading, 0.144000 seeking).
+Log: FileManager: 0.917998 seconds spent with misc. duties
+Uninitialized: Name subsystem shut down
+Uninitialized: Memory Allocation Status
+Uninitialized: Curr Memory  0.236M /  3.348M
+Uninitialized: Peak Memory  132.785M /  135.277M
+Uninitialized: Allocs         695 Current /  1017853 Total
+Uninitialized: Log file closed, 08/13/04 17:30:07
